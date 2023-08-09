@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'aquaman12'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B478BCA05B31496C9B7170B032D2C5DC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_178B2035EF494E42B54082173BAD6D74 }}
           package: .
